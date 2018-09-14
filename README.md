@@ -1,2 +1,2 @@
 # TestProject
-This project is made just for testing
+This project is made just for fun and testing
