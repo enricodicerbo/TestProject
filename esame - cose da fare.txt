@@ -1,0 +1,5 @@
+-configuration management plan (cambaire solo le milestone)
+-problema nella registrazione con la restituzione del risultato(rq.execute= null cioè resittuisce smepre stesso risultato)
+
+
+Allert dialog per notificare le cose
